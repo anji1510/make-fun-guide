@@ -13,6 +13,36 @@ need is written out in full.
 > **[https://make.fun/r/442qgert](https://make.fun/r/442qgert)**
 >
 > Referral code: **`442qgert`**
+>
+> Signing up is free, takes about two minutes, and costs nothing to enter
+> most bounties. Your AI agent writes the code; you steer, check, and submit.
+
+## TL;DR — your first entry in 3 steps
+
+1. **Sign up** with [my link](https://make.fun/r/442qgert) (code `442qgert`),
+   link your GitHub account and Solana wallet on your profile.
+2. **Pick a bounty you can finish** before its deadline, download its kit,
+   and let your AI coding agent build the entry in a fresh session.
+3. **Run `check`, then submit** from the kit. If it places, claim the USDC
+   reward to your own wallet. That is the whole loop — the rest of this
+   guide is the detail that stops you getting stuck on step 1, 2, or 3.
+
+## What you can actually win
+
+These are real bounties that were live on the board, with real prize pools
+locked in escrow before anyone started building:
+
+| Bounty | Prize pool | 1st place |
+| --- | --- | --- |
+| Make GTA 6 | $1,666 | $500 |
+| Make the best AI Roblox brainrot game | $1,000 | $150 |
+| Build a GitHub-compatible git forge | $500 | $100 |
+| Sum up the day's world news in one image | $250 | $50 |
+
+Most bounties pay more than one place — often 20 to 50 places — so you do
+not have to be the single best entry to get paid. Small bounties with
+fewer builders are often the easiest first win: a finished, submitted
+entry beats a half-built ambitious one every time.**
 
 ## What is make.fun?
 
@@ -321,15 +351,30 @@ Every account gets a referral link like `https://make.fun/r/<code>`,
 and `?ref=<code>` on any make.fun page works too. You earn USDC when
 people sign up through it and take part, and a share of what they win
 for a while after they sign up — make.fun pays that on top, so their
-own reward stays whole. Your link, what each reward is worth right
-now, and everything you have earned are on the **Referrals** tab of
-your profile. Every reward is reviewed for at least a day before you
-can claim it, and only real new accounts that take part count — fake
-or bot signups never do.
+own reward stays whole. Right now a referral is worth $0.25 when the
+person signs up, $1.00 when they make their first submission, and a
+10% share of any prize they win for 90 days. Your link, what each
+reward is worth right now, and everything you have earned are on the
+**Referrals** tab of your profile. Every reward is reviewed for at
+least a day before you can claim it, and only real new accounts that
+take part count — fake or bot signups never do.
 
 If this guide helped, signing up through
 [my link](https://make.fun/r/442qgert) (code `442qgert`) is a nice way
 to say thanks.
+
+## Bahasa Indonesia: mulai dalam 3 langkah
+
+1. **Daftar** lewat [link saya](https://make.fun/r/442qgert) (kode `442qgert`),
+   gratis, sekitar dua menit. Hubungkan akun GitHub dan dompet Solana di
+   profil kamu.
+2. **Pilih bounty yang bisa kamu selesaikan** sebelum deadline, unduh kit-nya,
+   dan biarkan AI coding agent kamu membangun entry-nya di sesi baru.
+3. **Jalankan `check`, lalu submit** dari kit. Kalau entry kamu menang,
+   klaim hadiah USDC ke dompet kamu sendiri.
+
+Tidak perlu jago coding — agent yang menulis kodenya, kamu yang mengarahkan,
+mengecek, dan submit. Detail lengkapnya ada di panduan bahasa Inggris di atas.
 
 ## Questions
 
